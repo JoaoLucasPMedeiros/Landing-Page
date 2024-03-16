@@ -12,3 +12,8 @@
 ### .background-size: cover;
 ### .background-position: center center;
 ### .}
+## FIXANDO ELEMENTOS 
+###    position: fixed; /* FAZ RODAR JUNTO A PAGINA  */
+###    top: 0;
+###    left: 0;
+###    right: 0; (FAZ ROLAR JUNTA COM A PAGINA)
